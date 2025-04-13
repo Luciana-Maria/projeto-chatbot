@@ -107,10 +107,6 @@ Utilizamos serviços da AWS para garantir segurança, escalabilidade e alta disp
 
 ---
 
-
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
