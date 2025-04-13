@@ -4,7 +4,7 @@
 
 🔗 [Clique aqui para visualizar o protótipo no Figma](https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1)
 
-# 🤖 Aplicação com Chatbot de Segurança e Combate ao Assédio
+#  Aplicação com Chatbot de Segurança e Combate ao Assédio
 
 ## 🌟 Sobre o Projeto
 
@@ -107,10 +107,7 @@ Utilizamos serviços da AWS para garantir segurança, escalabilidade e alta disp
 
 ---
 
-## 🤝 Contribua com o Projeto
 
-Quer colaborar com essa causa? Toda ajuda é bem-vinda!  
-Abra uma *issue* ou envie um *pull request* com suas sugestões ou melhorias.
 
 ---
 
