@@ -2,6 +2,7 @@
   <img src="Prototipo-chatbot.jpg" alt="Protótipo do Chatbot" width="600">
 </p>
 
+🔗 [Clique aqui para visualizar o protótipo no Figma](https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1)
 
 # 🤖 Aplicação com Chatbot de Segurança e Combate ao Assédio
 
@@ -43,6 +44,8 @@ A tecnologia pode (e deve!) ser uma aliada no combate à violência. Um chatbot 
 - 🧠 **Interface intuitiva e acessível** para qualquer perfil de usuário
 
 ---
+<video src="https://github.com/user-attachments/assets/94ac2118-a10c-482d-be97-b9dab05cf900" controls width="100%"></video>
+
 
 ## 🧱 Arquitetura com AWS
 <p align="center">
