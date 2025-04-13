@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Prototipo-chatbot.jpg" alt="Protótipo do Chatbot" width="600">
+</p>
+
+
 # 🤖 Aplicação com Chatbot de Segurança e Combate ao Assédio
 
 ## 🌟 Sobre o Projeto
@@ -40,6 +45,10 @@ A tecnologia pode (e deve!) ser uma aliada no combate à violência. Um chatbot 
 ---
 
 ## 🧱 Arquitetura com AWS
+<p align="center">
+  <img src="v2_Diagrama AWS.drawio.svg" alt="Diagrama AWS" width="600">
+</p>
+
 
 Utilizamos serviços da AWS para garantir segurança, escalabilidade e alta disponibilidade. Veja os principais componentes:
 
